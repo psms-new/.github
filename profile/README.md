@@ -1,6 +1,6 @@
 # PSMS - Promoter Share Management System
 
-**GOAL**
+**OBJECTIVES**
 1. Design and development of a public portal(website) for all prospects and public viewers.
 2. Design and development of shareholder portal.
 3. Design and development of admin,checker and maker portal for IMS(Information Management System)
